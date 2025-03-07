@@ -38,6 +38,7 @@
 
 ### 로컬에서 실행하기
 * 사전 요구사항: [git](Installation_guide_git), [python](Installation_guide_python) 설치
+* Git terminal 실행
 ```bash
 # 저장소 복제
 git clone https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook.git
@@ -55,7 +56,7 @@ pip install -r requirements.txt
 # Jupyter 노트북 실행
 jupyter notebook
 ```
-[https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook](https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook)
+
 ## 📚 목차
 
 저장소는 책의 챕터별로 구성되어 있습니다:
