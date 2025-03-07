@@ -37,13 +37,13 @@
 </div>
 
 ### 로컬에서 실행하기
-
+* 사전 요구사항: [git](Installation_guide_git), [python](Installation_guide_python) 설치
 ```bash
 # 저장소 복제
-git clone https://github.com/yourusername/dr-meets-code.git
+git clone https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook.git
 
-# 디렉토리 이동
-cd dr-meets-code
+# 챕터별 디렉토리 이동 (ex: Chapter 1)
+cd Chapter1
 
 # (선택사항) 가상 환경 생성 및 활성화
 python -m venv venv
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 # Jupyter 노트북 실행
 jupyter notebook
 ```
-
+[https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook](https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook)
 ## 📚 목차
 
 저장소는 책의 챕터별로 구성되어 있습니다:
@@ -134,9 +134,10 @@ jupyter notebook
 
 ## 📞 연락처
 
-저자: 닥터코드 - [@your_twitter](https://twitter.com/your_twitter)
+저자: 박현우, 유준일, 김현수
+깃허브 관리자: 김현수 (E-mail: inhagaime@gmail.com)
 
-프로젝트 링크: [https://github.com/yourusername/dr-meets-code](https://github.com/yourusername/dr-meets-code)
+프로젝트 링크: [https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook](https://github.com/DoctorCode-InhaGaime/DoctorCode-Workbook)
 
 ## 🙏 감사의 말
 
