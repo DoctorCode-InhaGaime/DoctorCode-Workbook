@@ -70,6 +70,8 @@ jupyter notebook
 - [2.3 파이썬으로 구현하는 고칼륨혈증 감별 진단: TTKG에서 알고리즘까지](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 - [2.4 파이썬으로 구현하는 쿠싱증후군 진단 알고리즘: 복잡한 의학 지식을 코드로 정리하기](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 - [2.5 파이썬으로 구현하는 CHA2DS2-VASc 점수 계산기: for문과 while문의 활용](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
+- [2.6 파이썬 클래스와 모듈로 구현하는 고칼륨혈증 관리 시스템](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
+- [2.7 의사의 새로운 파트너, AI: 파이썬으로 시작하는 의료 혁신의 여정](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 
 ### [Chapter 3: 의료 AI의 모든것: 기초 개념부터 최신 기술까지](./Chapter3/)
 - [3.1 지도학습](./Chapter3/3.1_Supervised_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter3/3.1_Supervised_Learning.ipynb)
