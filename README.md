@@ -109,16 +109,6 @@ jupyter notebook
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) Matplotlib
 - ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) Jupyter/Colab
 
-## 🤝 기여하기
-
-이 프로젝트에 기여하고 싶으신가요? 다음 단계를 따라주세요:
-
-1. 이 저장소를 포크합니다.
-2. 새 브랜치를 생성합니다: `git checkout -b feature/amazing-feature`
-3. 변경사항을 커밋합니다: `git commit -m 'Add some amazing feature'`
-4. 브랜치에 푸시합니다: `git push origin feature/amazing-feature`
-5. Pull Request를 제출합니다.
-
 ## 📝 라이센스
 
 이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 [LICENSE](./LICENSE) 파일을 참조하세요.
@@ -132,9 +122,13 @@ jupyter notebook
 ## 🙏 감사의 말
 
 * Google Colab 팀에게 무료 GPU 환경 제공에 감사드립니다.
+* We thank the Google Colab team for providing the free GPU environment.
 * 모든 오픈 소스 라이브러리 개발자들에게 감사드립니다.
+* We thank all the developers of open-source libraries.
 * 이 프로젝트에 영감을 준 모든 교육자들에게 감사드립니다.
+* We thank all the educators who inspired this project.
 * 피드백과 지원을 아끼지 않은 독자 여러분께 감사드립니다.
+* We thank the readers for their invaluable feedback and support.
 
 ---
 
