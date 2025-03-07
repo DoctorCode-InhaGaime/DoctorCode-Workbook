@@ -61,15 +61,19 @@ jupyter notebook
 저장소는 책의 챕터별로 구성되어 있습니다:
 
 ### [Chapter 1: AI와 함께하는 미래의 의사들: 의대생과 전공의를 위한 필수 가이드](./Chapter1/)
-- [1.1 인공지능이란 무엇인가?](./Chapter1/1.1_What_is_AI.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.1_What_is_AI.ipynb)
-- [1.2 프로그래밍 기초](./Chapter1/1.2_Programming_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Programming_Basics.ipynb)
+- [1.1 의료 AI 입문: 파이썬 설치와 Google Colab 활용 가이드](./Chapter1/1.1_What_is_AI.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.1_What_is_AI.ipynb)
+- [1.2 의학 연구자를 위한 AI 개발 환경 설정 가이드](./Chapter1/1.2_Programming_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Programming_Basics.ipynb)
 
 ### [Chapter 2: 임상 연구와 데이터 분석의 열쇠, 파이썬 알아보기](./Chapter2/)
-- [2.1 데이터 분석 시작하기](./Chapter2/2.1_Data_Analysis_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.1_Data_Analysis_Basics.ipynb)
-- [2.2 데이터 시각화](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
+- [2.1 의료 정보 처리를 위한 파이썬 기초: 데이터 타입과 구](./Chapter2/2.1_Data_Analysis_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.1_Data_Analysis_Basics.ipynb)
+- [2.2 의학 공식의 새로운 접근: 파이썬으로 Anion Gap 이해하기](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
+- [2.3 파이썬으로 구현하는 고칼륨혈증 감별 진단: TTKG에서 알고리즘까지](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
+- [2.4 파이썬으로 구현하는 쿠싱증후군 진단 알고리즘: 복잡한 의학 지식을 코드로 정리하기](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
+- [2.5 파이썬으로 구현하는 CHA2DS2-VASc 점수 계산기: for문과 while문의 활용](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 
 ### [Chapter 3: 의료 AI의 모든것: 기초 개념부터 최신 기술까지](./Chapter3/)
 - [3.1 지도학습](./Chapter3/3.1_Supervised_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter3/3.1_Supervised_Learning.ipynb)
+- [3.2 비지도학습](./Chapter3/3.2_Unsupervised_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter3/3.2_Unsupervised_Learning.ipynb)
 - [3.2 비지도학습](./Chapter3/3.2_Unsupervised_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter3/3.2_Unsupervised_Learning.ipynb)
 
 ### [Chapter 4: 의료 인공지능 개발의 출발선: 환경 구축부터 리소스 탐색까지](./Chapter4/)
