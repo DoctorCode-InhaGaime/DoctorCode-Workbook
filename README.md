@@ -56,6 +56,10 @@ pip install -r requirements.txt
 # Jupyter 노트북 실행
 jupyter notebook
 ```
+* 다른 Chapter로 넘어가기 전! 꼭 가상환경 (venv, pipenv 등)을 deactivate 시켜주세요!
+```
+deactivate
+```
 
 ## 📚 목차
 
