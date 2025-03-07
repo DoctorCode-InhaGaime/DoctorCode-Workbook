@@ -60,23 +60,35 @@ jupyter notebook
 
 저장소는 책의 챕터별로 구성되어 있습니다:
 
-### [Chapter 1: 인공지능과 코드의 만남](./Chapter1/)
+### [Chapter 1: AI와 함께하는 미래의 의사들: 의대생과 전공의를 위한 필수 가이드](./Chapter1/)
 - [1.1 인공지능이란 무엇인가?](./Chapter1/1.1_What_is_AI.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.1_What_is_AI.ipynb)
 - [1.2 프로그래밍 기초](./Chapter1/1.2_Programming_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Programming_Basics.ipynb)
 
-### [Chapter 2: 데이터 과학의 기초](./Chapter2/)
+### [Chapter 2: 임상 연구와 데이터 분석의 열쇠, 파이썬 알아보기](./Chapter2/)
 - [2.1 데이터 분석 시작하기](./Chapter2/2.1_Data_Analysis_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.1_Data_Analysis_Basics.ipynb)
 - [2.2 데이터 시각화](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 
-### [Chapter 3: 머신러닝 입문](./Chapter3/)
+### [Chapter 3: 의료 AI의 모든것: 기초 개념부터 최신 기술까지](./Chapter3/)
 - [3.1 지도학습](./Chapter3/3.1_Supervised_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter3/3.1_Supervised_Learning.ipynb)
 - [3.2 비지도학습](./Chapter3/3.2_Unsupervised_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter3/3.2_Unsupervised_Learning.ipynb)
 
-### [Chapter 4: 딥러닝의 세계](./Chapter4/)
+### [Chapter 4: 의료 인공지능 개발의 출발선: 환경 구축부터 리소스 탐색까지](./Chapter4/)
 - [4.1 신경망 기초](./Chapter4/4.1_Neural_Networks_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter4/4.1_Neural_Networks_Basics.ipynb)
 - [4.2 컴퓨터 비전](./Chapter4/4.2_Computer_Vision.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter4/4.2_Computer_Vision.ipynb)
 
-### [Chapter 5: 자연어 처리](./Chapter5/)
+### [Chapter 5: 영상 이미지 분석을 위한 딥러닝](./Chapter5/)
+- [5.1 텍스트 데이터 처리](./Chapter5/5.1_Text_Processing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.1_Text_Processing.ipynb)
+- [5.2 언어 모델링](./Chapter5/5.2_Language_Modeling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.2_Language_Modeling.ipynb)
+
+  ### [Chapter 6: 시계열 자료 분석을 위한 딥러닝](./Chapter6/)
+- [5.1 텍스트 데이터 처리](./Chapter5/5.1_Text_Processing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.1_Text_Processing.ipynb)
+- [5.2 언어 모델링](./Chapter5/5.2_Language_Modeling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.2_Language_Modeling.ipynb)
+
+  ### [Chapter 7: 생성형 AI 및 자연어 처리](./Chapter7/)
+- [5.1 텍스트 데이터 처리](./Chapter5/5.1_Text_Processing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.1_Text_Processing.ipynb)
+- [5.2 언어 모델링](./Chapter5/5.2_Language_Modeling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.2_Language_Modeling.ipynb)
+
+  ### [Chapter 8: Medical GitHub: 미래 의사를 위한 AI 플레이그라운드](./Chapter8/)
 - [5.1 텍스트 데이터 처리](./Chapter5/5.1_Text_Processing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.1_Text_Processing.ipynb)
 - [5.2 언어 모델링](./Chapter5/5.2_Language_Modeling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter5/5.2_Language_Modeling.ipynb)
 
