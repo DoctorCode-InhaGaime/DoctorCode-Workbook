@@ -27,7 +27,7 @@
 
 교수님들과 논의를 해보면 현 상황에 이르게 된 배경은 이해가 되긴 합니다. 의무기록 디지털화 (EMR / EHR)의 도입의 역사는 아직 20년이 채 되지 않았으며, 역사가 꽤 깊을줄 알았던 혈액 및 소변을 통한 검사도 2012년에 와서야 ISO 15189 개정으로 전체적으로 제대로 된 표준화가 진행되었습니다. 
 
-ISO 15189 표준화 (2003년도 첫 개정)
+ISO 15189 표준화 (first published in 2003)
 - CBC (Complete Blood Cound, 전혈구 검사 - 기본 혈액 검사)
 - Blood Chemistry Panel (혈액 화학 검사 - 기본 혈액 검사)
 - ELISA (Enzyme-Linked Immunosobent Assay - 면역학적 검사)
