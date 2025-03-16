@@ -1,7 +1,6 @@
 # 공지
 해당 코드북은 **2025년 3월 25일** 이후 일괄 업로드 예정입니다.
 
-<span style="color:blue">some *blue* text</span>.
 
 ---
 # 닥터, 코드를 만나다
