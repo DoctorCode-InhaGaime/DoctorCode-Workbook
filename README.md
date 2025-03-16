@@ -70,7 +70,7 @@ What_is_AI.i
 - [1.2 의학 연구자를 위한 AI 개발 환경 설정 가이드](./Chapter1/1.2_Environment_Setup.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Environment_Setup.ipynb)
 
 ### [Chapter 2: 임상 연구와 데이터 분석의 열쇠, 파이썬 알아보기](./Chapter2/)
-- [2.1 의료 정보 처리를 위한 파이썬 기초: 데이터 타입과 구](./Chapter2/2.1_Data_Analysis_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.1_Data_Analysis_Basics.ipynb)
+- [2.1 의료 정보 처리를 위한 파이썬 기초: 데이터 타입과 구조](./Chapter2/2.1_Data_Analysis_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.1_Data_Analysis_Basics.ipynb)
 - [2.2 의학 공식의 새로운 접근: 파이썬으로 Anion Gap 이해하기](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 - [2.3 파이썬으로 구현하는 고칼륨혈증 감별 진단: TTKG에서 알고리즘까지](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
 - [2.4 파이썬으로 구현하는 쿠싱증후군 진단 알고리즘: 복잡한 의학 지식을 코드로 정리하기](./Chapter2/2.2_Data_Visualization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.2_Data_Visualization.ipynb)
