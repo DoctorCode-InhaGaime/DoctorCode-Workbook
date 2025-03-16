@@ -119,10 +119,6 @@ What_is_AI.i
 - [8.5 의료 데이터 처리 시 고려사항](./Chapter8/8.5_Medical_Data_Considerations.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter8/8.5_Medical_Data_Considerations.ipynb)
 - [8.6 GitHub에서 SAM 활용하기](./Chapter8/8.6_Using_SAM_GitHub.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter8/8.6_Using_SAM_GitHub.ipynb)
 
-### [부록: 심화 학습](./Appendix/)
-- [A.1 강화학습](./Appendix/A.1_Reinforcement_Learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Appendix/A.1_Reinforcement_Learning.ipynb)
-- [A.2 프로젝트 아이디어](./Appendix/A.2_Project_Ideas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Appendix/A.2_Project_Ideas.ipynb)
-
 ## 🛠️ 기술 스택
 
 이 프로젝트는 다음 기술을 활용합니다:
