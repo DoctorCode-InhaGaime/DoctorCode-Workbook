@@ -70,7 +70,7 @@ What_is_AI.i
 저장소는 책의 챕터별로 구성되어 있습니다:
 
 ### [Chapter 1: AI와 함께하는 미래의 의사들: 의대생과 전공의를 위한 필수 가이드](./Chapter1/)
-- [1.3 의료 AI 입문: 파이썬 설치와 Google Colab 활용 가이드](./Chapter1/1.2_Environment_Setup.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Environment_Setup.ipynb)
+- [1.3 의료 AI 입문: 파이썬 설치와 Google Colab 활용 가이드](./Chapter1/1.3_Basic_Guide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Environment_Setup.ipynb)
 - [1.4 AI 개발 환경 설정 가이드](./Chapter1/1.4_Environment_Setup.md)
 
 ### [Chapter 2: 임상 연구와 데이터 분석의 열쇠, 파이썬 알아보기](./Chapter2/)
