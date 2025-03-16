@@ -72,6 +72,9 @@ What_is_AI.i
 ### [Chapter 1: AI와 함께하는 미래의 의사들: 의대생과 전공의를 위한 필수 가이드](./Chapter1/)
 - [1.1 의료 AI 입문: 파이썬 설치와 Google Colab 활용 가이드](./Chapter1/1.1_Basic_Guide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.1_What_is_AI.ipynb)
 - [1.2 의학 연구자를 위한 AI 개발 환경 설정 가이드](./Chapter1/1.2_Environment_Setup.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Environment_Setup.ipynb)
+- [1.3 의학 연구자를 위한 AI 개발 환경 설정 가이드](./Chapter1/1.2_Environment_Setup.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter1/1.2_Environment_Setup.ipynb)
+- [1.4 의학 연구자를 위한 AI 개발 환경 설정 가이드](./Chapter1/1.2_Environment_Setup.ipynb)
+- [1.5 의학 연구자를 위한 AI 개발 환경 설정 가이드](./Chapter1/1.2_Environment_Setup.ipynb)
 
 ### [Chapter 2: 임상 연구와 데이터 분석의 열쇠, 파이썬 알아보기](./Chapter2/)
 - [2.1 의료 정보 처리를 위한 파이썬 기초: 데이터 타입과 구조](./Chapter2/2.1_Data_Analysis_Basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/dr-meets-code/blob/main/Chapter2/2.1_Data_Analysis_Basics.ipynb)
