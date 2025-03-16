@@ -32,10 +32,12 @@ ISO 15189 표준화 (2006년도 첫 개정)
 - Blood Chemistry Panel (혈액 화학 검사 - 기본 혈액 검사)
 - ELISA (Enzyme-Linked Immunosobent Assay - 면역학적 검사)
 - CLIA (Chemiluminescent Immunoassay - 면역학적 검사)
+
 ISO 20428:2017
 - Single Cell RNA Sequencing ( - 세포학적 분석)
 - PCR (Polymerase Chain Reaction - 유전자 및 분자 생물학적 검사)
 - NGS (Next-Generation Sequencing - 유전자 및 분자 생물학적 검사)
+
 ISO 10993-4:2017
 - Mass Spectrometry (질량분석기 - 단백질체학 및 대사체학)
 
